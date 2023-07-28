@@ -1,0 +1,8 @@
+day1:(12-july-2023)
+What I did ?
+studied var, const, let,object . Expression ,comparison operators, if-elseif-else and while operator.
+
+what I find?
+see code of one.js  and always try to use const.
+in ternary operator you need to use bracket.
+alway keep in mind to use Number.parseInt whenever required.
